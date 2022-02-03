@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arnaldo Mandlate</h1>
-<h3 align="center">Software Development is my passion !</h3>
+<h1 align="left">Hi 👋, I'm Arnaldo Mandlate</h1>
+<h3 align="left">Software Development is my passion !</h3>
 
 <img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47izup0nacbtqssh4agnpwz3nsj9h9t4t85pun7k7p&amp;rid=giphy.gif&amp;ct=g" alt="programming GIF" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 1;">
 
