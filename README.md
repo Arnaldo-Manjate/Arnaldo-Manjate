@@ -1,7 +1,9 @@
-<h1 align="left">Hi 👋, I'm Arnaldo Mandlate</h1>
-<h3 align="left">Software Development is my passion !</h3>
+[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://rishavchanda.io)
 
-<img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47izup0nacbtqssh4agnpwz3nsj9h9t4t85pun7k7p&amp;rid=giphy.gif&amp;ct=g" alt="programming GIF" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 1;">
+<h1 align="center">Hi 👋, I'm Arnaldo Mandlate</h1>
+<h3 align="center">Software Development is my passion !</h3>
+
+<img align="right" src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47izup0nacbtqssh4agnpwz3nsj9h9t4t85pun7k7p&amp;rid=giphy.gif&amp;ct=g" alt="programming GIF" style="width: 500px; height: 281.25px; left: 0px; top: 0px; opacity: 1;">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaldo-manjate" alt="arnaldo-manjate" /></a> </p>
 
