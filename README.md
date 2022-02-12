@@ -1,4 +1,3 @@
-[![MasterHead]()](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Arnaldo Mandlate</h1>
 <h3 align="center">Software Development is my passion !</h3>
