@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)](https://rishavchanda.io)
+[![MasterHead](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner-300x78.png)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Arnaldo Mandlate</h1>
 <h3 align="center">Software Development is my passion !</h3>
