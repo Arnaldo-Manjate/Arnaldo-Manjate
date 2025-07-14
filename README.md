@@ -1,16 +1,9 @@
-<div align="center">
+<div align="left">
   <h1 style="font-family: 'Syncopate', monospace; font-weight: 400; color: #2c3e50; margin-bottom: 10px; font-size: 2.5em;">Arnaldo Mandlate</h1>
   
-  <h2 style="font-family: 'Syncopate', monospace; font-weight: 400; color: #34495e; margin-top: 5px; margin-bottom: 15px; font-size: 1.3em;">Senior Software Engineer & Cloud Architect</h2>
+  <h2 style="font-family: 'Syncopate', monospace; font-weight: 400; color: #34495e; margin-top: 5px; margin-bottom: 15px; font-size: 1.3em;">Software Engineer & Cloud Architect</h2>
   
   <p style="font-family: 'Syncopate', monospace; font-style: italic; color: #7f8c8d; font-size: 1em; margin-bottom: 20px;">Building scalable, production-ready applications that drive business value</p>
-</div>
-
-<div align="center">
-  <a href="https://golang.org/"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"></a>
-  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"></a>
 </div>
 
 ---
