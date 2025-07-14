@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 
-  <p style="font-weight: 400; color: #27ae60; margin-top: 10px; font-size: 0.9em;"><strong>AWS Certifications:</strong> Terraform Associate, Solutions Architect Associate, Developer Associate</p>
+  <p style="font-weight: 400; color: #27ae60; margin-top: 10px; font-size: 0.9em;"><strong>AWS Certifications:</strong> Terraform Associate, Solutions Architect Associate, Developer Associate, AWS AI Practitioner</p>
 
   <h3 style="font-weight: 400; color: #34495e; margin-top: 25px; font-size: 1.2em;">AI & Machine Learning</h3>
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="SageMaker">
